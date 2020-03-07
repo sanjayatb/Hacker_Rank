@@ -1,2 +1,2 @@
-# Hacker_Rank
- Hacker Rank Codes
+# hackerrank
+My HackerRank codes
